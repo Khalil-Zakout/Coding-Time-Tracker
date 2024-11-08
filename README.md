@@ -39,7 +39,7 @@ The **Coding Time Tracker** is an automated **`Python`** application that tracks
  
 **5. Dashboard:** You can access the Excel dashboard to track your coding sessions, analyze weekly improvements, and more!
 
-![Excel Dashboard](./Screenshot/Dashboard_Screenshot.png)
+![Excel Dashboard](./Screenshot/Excel_Dashboard.png)
 
 ## Contact
 For questions or contributions, please reach out to me at zakoutkhalil@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/khalil-zakout/).
